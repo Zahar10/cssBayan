@@ -43,7 +43,6 @@ img {
     margin: 0 auto;
 }
 
-
 .bayan-title {
     display: flex;
     align-items: center;
@@ -66,7 +65,6 @@ img {
     position: static;
 }
 
-
 .bayan-img {
     max-height: 0;
     overflow: hidden;
@@ -85,7 +83,6 @@ img {
 .bayan-input:checked + .bayan-img {
     max-height: 100vh;
 }
-
 
 @media (max-width: 820px) {
     body{
