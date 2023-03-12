@@ -45,7 +45,7 @@ img {
     cursor: pointer;
     padding: 2vh 0;
     position: static;
-
+    padding-top: 2vh;
 }
 .bayan-title:after {
     content: '▼';
